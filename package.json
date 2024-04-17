@@ -1,0 +1,28 @@
+{
+  "name": "khalti-payment",
+  "version": "1.0.0",
+  "description": "A Node.js module for interacting with the Khalti payment gateway, enabling seamless payment initiation and status lookup. This package provides functions to initiate payments through Khalti's ePayment API and look up payment status based on transaction identifiers. Easily integrate Khalti payments into your Node.js applications with minimal setup using this npm package.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hello-world-ttj/khalti-payment.git"
+  },
+  "keywords": [
+    "khalti",
+    "payment",
+    "gateway",
+    "api"
+  ],
+  "author": "Tijo T Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hello-world-ttj/khalti-payment/issues"
+  },
+  "homepage": "https://github.com/hello-world-ttj/khalti-payment#readme",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
