@@ -1,6 +1,6 @@
 {
   "name": "khalti-payment",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js module for interacting with the Khalti payment gateway, enabling seamless payment initiation and status lookup. This package provides functions to initiate payments through Khalti's ePayment API and look up payment status based on transaction identifiers. Easily integrate Khalti payments into your Node.js applications with minimal setup using this npm package.",
   "main": "app.js",
   "scripts": {

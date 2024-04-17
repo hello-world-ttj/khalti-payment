@@ -15,7 +15,7 @@ npm install khalti-payment
 ## Import the Module
 
 ```javascript
-const { khaltiService, khaltiCallback } = require("khalti-service");
+const { khaltiService, khaltiCallback } = require("khalti-payment");
 ```
 
 ## Initiating a Payment
