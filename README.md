@@ -51,7 +51,7 @@ To handle Khalti callback for payment status lookup (e.g., in an Express route),
 
 ```javascript
 const express = require("express");
-const { khaltiCallback } = require("khalti-service");
+const { khaltiCallback } = require("khalti-payment");
 
 const app = express();
 
